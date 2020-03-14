@@ -1,0 +1,21 @@
+{
+    "name": "Unity.Build.Classic",
+    "references": [
+        "Unity.Build",
+        "Unity.Build.Internals",
+        "Unity.Build.Common",
+        "Unity.Properties",
+        "Unity.Properties.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
