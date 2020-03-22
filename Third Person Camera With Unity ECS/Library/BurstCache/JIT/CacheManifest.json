@@ -4,7 +4,7 @@
     {
       "FullName": "Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
       "FilePath": "C:\\Users\\Aislan\\Sources\\repos\\third-person-camera-with-unity-ecs-github\\Third Person Camera With Unity ECS\\Library\\ScriptAssemblies\\Unity.Burst.dll",
-      "LastWriteTime": "2020-03-14T14:17:13.0642189Z"
+      "LastWriteTime": "2020-03-17T02:27:50.5429818Z"
     },
     {
       "FullName": "netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51",
@@ -17,19 +17,54 @@
       "LastWriteTime": "2020-02-12T09:38:42Z"
     },
     {
+      "FullName": "Unity.Entities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "FilePath": "C:\\Users\\Aislan\\Sources\\repos\\third-person-camera-with-unity-ecs-github\\Third Person Camera With Unity ECS\\Library\\ScriptAssemblies\\Unity.Entities.dll",
+      "LastWriteTime": "2020-03-17T02:27:50.6068112Z"
+    },
+    {
       "FullName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
       "FilePath": "C:\\Program Files\\Unity\\Hub\\Editor\\2019.3.2f1\\Editor\\Data\\Managed\\UnityEngine\\UnityEngine.CoreModule.dll",
       "LastWriteTime": "2020-02-12T11:37:38Z"
     },
     {
-      "FullName": "Unity.Serialization, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "FilePath": "C:\\Users\\Aislan\\Sources\\repos\\third-person-camera-with-unity-ecs-github\\Third Person Camera With Unity ECS\\Library\\ScriptAssemblies\\Unity.Serialization.dll",
-      "LastWriteTime": "2020-03-14T14:17:16.7816802Z"
+      "FullName": "Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "FilePath": "C:\\Users\\Aislan\\Sources\\repos\\third-person-camera-with-unity-ecs-github\\Third Person Camera With Unity ECS\\Library\\ScriptAssemblies\\Unity.Collections.dll",
+      "LastWriteTime": "2020-03-17T02:27:50.5489655Z"
+    },
+    {
+      "FullName": "Unity.Mathematics, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "FilePath": "C:\\Users\\Aislan\\Sources\\repos\\third-person-camera-with-unity-ecs-github\\Third Person Camera With Unity ECS\\Library\\ScriptAssemblies\\Unity.Mathematics.dll",
+      "LastWriteTime": "2020-03-17T02:27:50.6512016Z"
     },
     {
       "FullName": "mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
       "FilePath": "C:\\Program Files\\Unity\\Hub\\Editor\\2019.3.2f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit\\mscorlib.dll",
       "LastWriteTime": "2020-02-12T09:38:42Z"
+    },
+    {
+      "FullName": "System.Runtime.CompilerServices.Unsafe, Version=4.0.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a",
+      "FilePath": "C:\\Users\\Aislan\\Sources\\repos\\third-person-camera-with-unity-ecs-github\\Third Person Camera With Unity ECS\\Library\\PackageCache\\com.unity.collections@0.7.0-preview.2\\System.Runtime.CompilerServices.Unsafe.dll",
+      "LastWriteTime": "2020-03-13T13:43:34Z"
+    },
+    {
+      "FullName": "System.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a",
+      "FilePath": "C:\\Program Files\\Unity\\Hub\\Editor\\2019.3.2f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit\\Facades\\System.Runtime.dll",
+      "LastWriteTime": "2020-02-12T09:38:42Z"
+    },
+    {
+      "FullName": "Unity.Burst.Unsafe, Version=4.0.5.0, Culture=neutral, PublicKeyToken=null",
+      "FilePath": "C:\\Users\\Aislan\\Sources\\repos\\third-person-camera-with-unity-ecs-github\\Third Person Camera With Unity ECS\\Library\\PackageCache\\com.unity.burst@1.3.0-preview.5\\Unity.Burst.Unsafe.dll",
+      "LastWriteTime": "2020-03-11T17:06:28Z"
+    },
+    {
+      "FullName": "Unity.Scenes.Hybrid, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "FilePath": "C:\\Users\\Aislan\\Sources\\repos\\third-person-camera-with-unity-ecs-github\\Third Person Camera With Unity ECS\\Library\\ScriptAssemblies\\Unity.Scenes.Hybrid.dll",
+      "LastWriteTime": "2020-03-17T02:27:50.7060552Z"
+    },
+    {
+      "FullName": "Unity.Transforms, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "FilePath": "C:\\Users\\Aislan\\Sources\\repos\\third-person-camera-with-unity-ecs-github\\Third Person Camera With Unity ECS\\Library\\ScriptAssemblies\\Unity.Transforms.dll",
+      "LastWriteTime": "2020-03-17T02:27:50.7594212Z"
     }
   ],
   "Functions": [
@@ -56,107 +91,342 @@
       ]
     },
     {
-      "FullName": "System.Void Unity.Jobs.IJobParallelForExtensions/ParallelForJobStruct`1<Unity.Serialization.PackedBinaryStream/InitializeJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "FullName": "System.Boolean Unity.Entities.StructuralChange::AddComponentEntityExecute(Unity.Entities.EntityComponentStore*,Unity.Entities.Entity*,System.Int32)",
       "ModuleOptionsHash": 10400676583197497630,
-      "ModuleHash": "7a04e9c328a5a35f4ba02256cabab532",
-      "LinkName": "E63D6CC540F5F912",
+      "ModuleHash": "1b16f1bb7f3b6a9154867e7aea7b7b1b",
+      "LinkName": "AAA6AEDB2D217911",
       "AssemblyDependencyIndices": [
         3,
+        1,
+        2,
         4,
         5,
-        1,
-        2
+        6,
+        7,
+        8,
+        9
       ]
     },
     {
-      "FullName": "System.Void Unity.Jobs.IJobParallelForExtensions/ParallelForJobStruct`1<Unity.Serialization.PackedBinaryStream/ClearJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "FullName": "System.Void Unity.Entities.StructuralChange::AddComponentChunksExecute(Unity.Entities.EntityComponentStore*,Unity.Entities.ArchetypeChunk*,System.Int32,System.Int32)",
       "ModuleOptionsHash": 10400676583197497630,
-      "ModuleHash": "04a29e58269838037101d1931b36e388",
-      "LinkName": "9CFDF477E5B27E59",
+      "ModuleHash": "f1e2761f7de66641cdc9e228a4132df8",
+      "LinkName": "773DC54203A6998F",
       "AssemblyDependencyIndices": [
         3,
+        1,
+        2,
         4,
         5,
-        1,
-        2
+        7,
+        6,
+        8,
+        9
       ]
     },
     {
-      "FullName": "System.Void Unity.Jobs.IJobExtensions/JobStruct`1<Unity.Serialization.Json.JsonTokenizer/DiscardCompletedJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "FullName": "System.Boolean Unity.Entities.StructuralChange::RemoveComponentEntityExecute(Unity.Entities.EntityComponentStore*,Unity.Entities.Entity*,System.Int32)",
       "ModuleOptionsHash": 10400676583197497630,
-      "ModuleHash": "bd93049bb06353263900084fa65b0291",
-      "LinkName": "D145098390BDD5A2",
+      "ModuleHash": "e0a84cf6fb342b848b9dbb23bd409956",
+      "LinkName": "1201E5F6D1E4EC5F",
       "AssemblyDependencyIndices": [
         3,
+        1,
+        2,
         4,
         5,
-        1,
-        2
+        6,
+        7,
+        8,
+        9
       ]
     },
     {
-      "FullName": "System.Void Unity.Jobs.IJobExtensions/JobStruct`1<Unity.Serialization.Json.JsonStandardValidator/StandardJsonValidationJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "FullName": "System.Void Unity.Entities.StructuralChange::AddComponentEntitiesBatchExecute(Unity.Entities.EntityComponentStore*,Unity.Collections.LowLevel.Unsafe.UnsafeList*,System.Int32)",
       "ModuleOptionsHash": 10400676583197497630,
-      "ModuleHash": "20c2fb7d765f3ffff69a7225459dde6c",
-      "LinkName": "798A502E3C4210EE",
+      "ModuleHash": "df28007e84e4fe11b3f2cd02d0e98fd1",
+      "LinkName": "299577E4E1DF3A51",
       "AssemblyDependencyIndices": [
         3,
-        4,
-        5,
         1,
-        2
+        2,
+        5,
+        4,
+        6,
+        7,
+        8,
+        9
       ]
     },
     {
-      "FullName": "System.Void Unity.Jobs.IJobExtensions/JobStruct`1<Unity.Serialization.Json.JsonTokenizer/TokenizeJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "FullName": "System.Void Unity.Entities.StructuralChange::RemoveComponentChunksExecute(Unity.Entities.EntityComponentStore*,Unity.Entities.ArchetypeChunk*,System.Int32,System.Int32)",
       "ModuleOptionsHash": 10400676583197497630,
-      "ModuleHash": "4a7b10836424c0f8f833565caf15f926",
-      "LinkName": "AE818C216FA2E7D0",
+      "ModuleHash": "153f74eaaea84db6107d3fd04ee56ce2",
+      "LinkName": "DC0186A7DDED51F2",
       "AssemblyDependencyIndices": [
         3,
+        1,
+        2,
         4,
         5,
-        1,
-        2
+        7,
+        6,
+        8,
+        9
       ]
     },
     {
-      "FullName": "System.Void Unity.Jobs.IJobExtensions/JobStruct`1<Unity.Serialization.NodeParser/ParseJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "FullName": "System.Void Unity.Entities.StructuralChange::RemoveComponentEntitiesBatchExecute(Unity.Entities.EntityComponentStore*,Unity.Collections.LowLevel.Unsafe.UnsafeList*,System.Int32)",
       "ModuleOptionsHash": 10400676583197497630,
-      "ModuleHash": "9acaa6477897242ac9e7e2264d12c86a",
-      "LinkName": "54C3E59AB6A52657",
+      "ModuleHash": "017fbecf930a6d9f94142a675a2d9def",
+      "LinkName": "048DA67685B13057",
       "AssemblyDependencyIndices": [
         3,
-        4,
-        5,
         1,
-        2
+        2,
+        5,
+        4,
+        6,
+        7,
+        8,
+        9
       ]
     },
     {
-      "FullName": "System.Void Unity.Jobs.IJobExtensions/JobStruct`1<Unity.Serialization.PackedBinaryWriter/WriteTokensJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "FullName": "System.Void Unity.Entities.StructuralChange::AddSharedComponentChunksExecute(Unity.Entities.EntityComponentStore*,Unity.Entities.ArchetypeChunk*,System.Int32,System.Int32,System.Int32)",
       "ModuleOptionsHash": 10400676583197497630,
-      "ModuleHash": "5f9ee15d8e1670b941697a82b4b976e5",
-      "LinkName": "70A8B12CB9737BF7",
+      "ModuleHash": "63651198866ae9e828f869bf8a71b127",
+      "LinkName": "542EB605C3747C68",
       "AssemblyDependencyIndices": [
         3,
+        1,
+        2,
         4,
         5,
-        1,
-        2
+        7,
+        6,
+        8,
+        9
       ]
     },
     {
-      "FullName": "System.Void Unity.Jobs.IJobParallelForExtensions/ParallelForJobStruct`1<Unity.Serialization.PackedBinaryWriter/WriteCharactersJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "FullName": "System.Void Unity.Entities.StructuralChange::MoveEntityArchetypeExecute(Unity.Entities.EntityComponentStore*,Unity.Entities.Entity*,System.Void*)",
       "ModuleOptionsHash": 10400676583197497630,
-      "ModuleHash": "912be72665a1a6e3062b6596361b298c",
-      "LinkName": "CD836E90693DA0A8",
+      "ModuleHash": "47eee8fe7118512f18235aab0a55e7de",
+      "LinkName": "137AC5B4BEBD1009",
       "AssemblyDependencyIndices": [
         3,
+        1,
+        2,
         4,
         5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.StructuralChange::SetChunkComponentExecute(Unity.Entities.EntityComponentStore*,Unity.Entities.ArchetypeChunk*,System.Int32,System.Void*,System.Int32)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "fcde8468c332984f52f5e6e9e9a809d5",
+      "LinkName": "5AE063EC50B48E9E",
+      "AssemblyDependencyIndices": [
+        3,
         1,
-        2
+        2,
+        4,
+        5,
+        7
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.StructuralChange::CreateEntityExecute(Unity.Entities.EntityComponentStore*,System.Void*,Unity.Entities.Entity*,System.Int32)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "5dbd29e81ad175163544f09230286497",
+      "LinkName": "61885968DA53AEE3",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        4,
+        5,
+        7,
+        6,
+        8,
+        9
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.StructuralChange::InstantiateEntitiesExecute(Unity.Entities.EntityComponentStore*,Unity.Entities.Entity*,Unity.Entities.Entity*,System.Int32)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "2b3f175c5e119b5ed78ec2953e0d109e",
+      "LinkName": "CF0FF7D3146132D5",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        4,
+        5,
+        7,
+        6,
+        0,
+        10,
+        9,
+        8
+      ]
+    },
+    {
+      "FullName": "System.Boolean Unity.Entities.EntityCommandBuffer::PlaybackUnmanagedCommandExecute(Unity.Entities.EntityComponentStore*,Unity.Entities.BasicCommand*,Unity.Entities.ECBSharedPlaybackState&,Unity.Entities.PlaybackPolicy)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "93d375f0b3bd7ab59a1ebd15ae5d31fe",
+      "LinkName": "EB836A6B00385FD7",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        4,
+        5,
+        7,
+        6,
+        0,
+        10,
+        9,
+        8
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.EntityCommandBuffer::PlaybackChainChunkWrapper(EntityDataAccess*,Unity.Collections.LowLevel.Unsafe.UnsafeList*,Unity.Entities.EntityComponentStore/ArchetypeChanges&,Unity.Entities.ECBSharedPlaybackState&,Unity.Entities.ECBChainPlaybackState*,System.Int32,System.Int32,System.Boolean,Unity.Entities.PlaybackPolicy)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "169fc2e9eb5c7b7c4752dbecde37d70a",
+      "LinkName": "33E44A453770E635",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        5,
+        4,
+        7,
+        6,
+        0,
+        10,
+        9,
+        8
+      ]
+    },
+    {
+      "FullName": "System.Int32 Unity.Entities.ChunkIterationUtility::CalculateEntityCountExecute(Unity.Entities.UnsafeMatchingArchetypePtrList&,Unity.Entities.EntityQueryFilter&)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "ecb9d785dc59047f422b8d7a5897d70f",
+      "LinkName": "A97758B627ED3037",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        5,
+        4
+      ]
+    },
+    {
+      "FullName": "System.Int32 Unity.Entities.ChunkIterationUtility::CalculateChunkCountExecute(Unity.Entities.UnsafeMatchingArchetypePtrList&,Unity.Entities.EntityQueryFilter&)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "6c220a6d6edbf3421889eaaba1cc7662",
+      "LinkName": "9FD4D34EBF439837",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        5,
+        4
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Jobs.IJobExtensions/JobStruct`1<Unity.Entities.GatherChunksAndOffsetsJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "d849b445f10f2bdd3b48a3b4972e010f",
+      "LinkName": "B7F499C5E5D5B233",
+      "AssemblyDependencyIndices": [
+        4,
+        3,
+        7,
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.JobChunkExtensions/JobChunkProducer`1<Unity.Entities.GatherComponentDataJob`1<Unity.Entities.SceneReference>>::Execute(Unity.Entities.JobChunkExtensions/JobChunkWrapper`1<T>&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "4bed54257183769adadddb3d75ef5d9f",
+      "LinkName": "6814E1854C175BF0",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        4,
+        7,
+        6,
+        5
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.JobChunkExtensions/JobChunkProducer`1<Unity.Entities.GatherComponentDataJob`1<Unity.Scenes.LiveLinkPatcher/LiveLinkedSceneState>>::Execute(Unity.Entities.JobChunkExtensions/JobChunkWrapper`1<T>&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "185c8608bfe7f109f9c730659f0129c7",
+      "LinkName": "4745C97FB7218263",
+      "AssemblyDependencyIndices": [
+        3,
+        11,
+        1,
+        2,
+        4,
+        7,
+        6,
+        5
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.JobChunkExtensions/JobChunkProducer`1<Unity.Entities.GatherEntitiesJob>::Execute(Unity.Entities.JobChunkExtensions/JobChunkWrapper`1<T>&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "3b32361ce14692a9a1138ed34ad2168b",
+      "LinkName": "90AC1F4498492A4F",
+      "AssemblyDependencyIndices": [
+        3,
+        1,
+        2,
+        4,
+        7,
+        5
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Jobs.IJobParallelForExtensions/ParallelForJobStruct`1<Unity.Entities.GatherChunks>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "d80f20eba204aef92f883b7e115f4f63",
+      "LinkName": "FA03580BA48C4693",
+      "AssemblyDependencyIndices": [
+        4,
+        3,
+        7,
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "FullName": "System.Void Unity.Entities.JobChunkExtensions/JobChunkProducer`1<Unity.Transforms.TRSToLocalToWorldSystem/TRSToLocalToWorld>::Execute(Unity.Entities.JobChunkExtensions/JobChunkWrapper`1<T>&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "ModuleOptionsHash": 10400676583197497630,
+      "ModuleHash": "4a30d3e8b56a8673fca580ac2a73d2ff",
+      "LinkName": "C2CC59598D2050CD",
+      "AssemblyDependencyIndices": [
+        3,
+        12,
+        1,
+        2,
+        4,
+        7,
+        6,
+        5
       ]
     }
   ]
