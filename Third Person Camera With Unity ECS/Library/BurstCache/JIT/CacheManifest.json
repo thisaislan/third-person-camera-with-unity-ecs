@@ -4,7 +4,7 @@
     {
       "FullName": "Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
       "FilePath": "C:\\Users\\Aislan\\Sources\\repos\\third-person-camera-with-unity-ecs-github\\Third Person Camera With Unity ECS\\Library\\ScriptAssemblies\\Unity.Burst.dll",
-      "LastWriteTime": "2020-03-17T02:27:50.5429818Z"
+      "LastWriteTime": "2020-03-29T17:38:22.2062669Z"
     },
     {
       "FullName": "netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51",
@@ -19,7 +19,7 @@
     {
       "FullName": "Unity.Entities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
       "FilePath": "C:\\Users\\Aislan\\Sources\\repos\\third-person-camera-with-unity-ecs-github\\Third Person Camera With Unity ECS\\Library\\ScriptAssemblies\\Unity.Entities.dll",
-      "LastWriteTime": "2020-03-17T02:27:50.6068112Z"
+      "LastWriteTime": "2020-03-29T17:38:22.2611195Z"
     },
     {
       "FullName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -29,12 +29,12 @@
     {
       "FullName": "Unity.Collections, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
       "FilePath": "C:\\Users\\Aislan\\Sources\\repos\\third-person-camera-with-unity-ecs-github\\Third Person Camera With Unity ECS\\Library\\ScriptAssemblies\\Unity.Collections.dll",
-      "LastWriteTime": "2020-03-17T02:27:50.5489655Z"
+      "LastWriteTime": "2020-03-29T17:38:22.2122499Z"
     },
     {
       "FullName": "Unity.Mathematics, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
       "FilePath": "C:\\Users\\Aislan\\Sources\\repos\\third-person-camera-with-unity-ecs-github\\Third Person Camera With Unity ECS\\Library\\ScriptAssemblies\\Unity.Mathematics.dll",
-      "LastWriteTime": "2020-03-17T02:27:50.6512016Z"
+      "LastWriteTime": "2020-03-29T17:38:22.3030077Z"
     },
     {
       "FullName": "mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
@@ -59,12 +59,12 @@
     {
       "FullName": "Unity.Scenes.Hybrid, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
       "FilePath": "C:\\Users\\Aislan\\Sources\\repos\\third-person-camera-with-unity-ecs-github\\Third Person Camera With Unity ECS\\Library\\ScriptAssemblies\\Unity.Scenes.Hybrid.dll",
-      "LastWriteTime": "2020-03-17T02:27:50.7060552Z"
+      "LastWriteTime": "2020-03-29T17:38:22.3498822Z"
     },
     {
       "FullName": "Unity.Transforms, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
       "FilePath": "C:\\Users\\Aislan\\Sources\\repos\\third-person-camera-with-unity-ecs-github\\Third Person Camera With Unity ECS\\Library\\ScriptAssemblies\\Unity.Transforms.dll",
-      "LastWriteTime": "2020-03-17T02:27:50.7594212Z"
+      "LastWriteTime": "2020-03-29T17:38:22.4137113Z"
     }
   ],
   "Functions": [

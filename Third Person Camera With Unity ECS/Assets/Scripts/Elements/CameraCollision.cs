@@ -5,6 +5,11 @@ using LevelObjectsTags = Metadatas.Tags.LevelObjects;
 
 namespace Elements
 {
+    /*
+     * This class has remained as MonoBehaviour to show that
+     * ComponentSystem, IComponentData and MonoBehaviour 
+     * can work perfectly together
+     * */
 
     public class CameraCollision : MonoBehaviour
     {
@@ -128,7 +133,5 @@ namespace Elements
             if (speed >= 1) { return smoothBase * speed; }
             return smoothBase;
         }
-
     }
-
 }
